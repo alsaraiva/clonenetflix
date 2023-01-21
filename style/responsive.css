@@ -30,3 +30,9 @@
     font-size: 12px;
   }
 }
+
+@media screen and (max-width: 332px) {
+  header nav a {
+    font-size: 10px;
+  }
+}
